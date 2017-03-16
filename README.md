@@ -1,5 +1,5 @@
 # IPO_P4v1
-Prototipo de interfaz gráfica para los terminales interactivos de un hotel-balneario.
+Prototipo de interfaz gráfica para los terminales interactivos de un hotel-balneario. Se utiliza la tecnología Java Swing.
 
 Capturas:
 

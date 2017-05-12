@@ -3,8 +3,10 @@ Prototipo de interfaz gráfica para los terminales interactivos de un hotel-baln
 
 Capturas:
 
-[Página de inicio](screenshots/startPage.png)
+Página de inicio
+![screenshot](screenshots/startPage.png)
 
-[Página interior 1](screenshots/inner1.png)
+Páginas interiores
+![screenshot](screenshots/inner1.png)
 
-[Página interior 2](screenshots/inner2.png)
+![screenshot](screenshots/inner2.png)
